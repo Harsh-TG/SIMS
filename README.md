@@ -1,6 +1,6 @@
 # **Student Internship Management System (SIMS)**
 ## Description
-STIMS helps manage student data and track internship and training records for students applying for internships in college. It enables administrators to manage student information, track training and internship applications, and monitor progress.
+SIMS helps manage student data and track internship and training records for students applying for internships in college. It enables administrators to manage student information, track training and internship applications, and monitor progress.
 
 # **Tools and Technologies:**
 Frontend: JavaScript, CSS
@@ -20,7 +20,7 @@ A web server that supports PHP (e.g., XAMPP, MAMP, or LAMP).
 MySQL database.
 ## Frontend Setup
 1.Clone the repository:
-git clone (https://github.com/Harsh-TG/STAIMS.git)
+git clone (https://github.com/Harsh-TG/Student-Internship-Management-System-SIMS.git)
 
 2.Open the project folder and ensure all frontend files are ready.
 
